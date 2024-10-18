@@ -1,0 +1,224 @@
+2024-10-18 14:26:34,482: Skipped order_001.xml - Missing <Customer> element.
+2024-10-18 14:26:34,482: Retrying order_001.xml (1/3)
+2024-10-18 14:26:34,487: Skipped order_001.xml - Missing <Customer> element.
+2024-10-18 14:26:34,487: Retrying order_001.xml (2/3)
+2024-10-18 14:26:34,492: Skipped order_001.xml - Missing <Customer> element.
+2024-10-18 14:26:34,492: Retrying order_001.xml (3/3)
+2024-10-18 14:26:34,492: Failed to process order_001.xml after 3 retries.
+2024-10-18 14:26:34,502: Skipped order_002.xml - Missing <Customer> element.
+2024-10-18 14:26:34,502: Retrying order_002.xml (1/3)
+2024-10-18 14:26:34,512: Skipped order_002.xml - Missing <Customer> element.
+2024-10-18 14:26:34,512: Retrying order_002.xml (2/3)
+2024-10-18 14:26:34,518: Skipped order_002.xml - Missing <Customer> element.
+2024-10-18 14:26:34,518: Retrying order_002.xml (3/3)
+2024-10-18 14:26:34,518: Failed to process order_002.xml after 3 retries.
+2024-10-18 14:26:34,527: Skipped order_003.xml - Missing <Customer> element.
+2024-10-18 14:26:34,527: Retrying order_003.xml (1/3)
+2024-10-18 14:26:34,534: Skipped order_003.xml - Missing <Customer> element.
+2024-10-18 14:26:34,534: Retrying order_003.xml (2/3)
+2024-10-18 14:26:34,542: Skipped order_003.xml - Missing <Customer> element.
+2024-10-18 14:26:34,542: Retrying order_003.xml (3/3)
+2024-10-18 14:26:34,542: Failed to process order_003.xml after 3 retries.
+2024-10-18 14:26:34,552: Skipped order_004.xml - Missing <Customer> element.
+2024-10-18 14:26:34,552: Retrying order_004.xml (1/3)
+2024-10-18 14:26:34,562: Skipped order_004.xml - Missing <Customer> element.
+2024-10-18 14:26:34,562: Retrying order_004.xml (2/3)
+2024-10-18 14:26:34,566: Skipped order_004.xml - Missing <Customer> element.
+2024-10-18 14:26:34,566: Retrying order_004.xml (3/3)
+2024-10-18 14:26:34,566: Failed to process order_004.xml after 3 retries.
+2024-10-18 14:26:34,572: Skipped order_005.xml - Missing <Customer> element.
+2024-10-18 14:26:34,572: Retrying order_005.xml (1/3)
+2024-10-18 14:26:34,582: Skipped order_005.xml - Missing <Customer> element.
+2024-10-18 14:26:34,582: Retrying order_005.xml (2/3)
+2024-10-18 14:26:34,582: Skipped order_005.xml - Missing <Customer> element.
+2024-10-18 14:26:34,582: Retrying order_005.xml (3/3)
+2024-10-18 14:26:34,582: Failed to process order_005.xml after 3 retries.
+2024-10-18 14:26:34,598: Skipped order_006.xml - Missing <Customer> element.
+2024-10-18 14:26:34,598: Retrying order_006.xml (1/3)
+2024-10-18 14:26:34,602: Skipped order_006.xml - Missing <Customer> element.
+2024-10-18 14:26:34,602: Retrying order_006.xml (2/3)
+2024-10-18 14:26:34,607: Skipped order_006.xml - Missing <Customer> element.
+2024-10-18 14:26:34,607: Retrying order_006.xml (3/3)
+2024-10-18 14:26:34,607: Failed to process order_006.xml after 3 retries.
+2024-10-18 14:26:34,622: Skipped order_007.xml - Missing <Customer> element.
+2024-10-18 14:26:34,622: Retrying order_007.xml (1/3)
+2024-10-18 14:26:34,632: Skipped order_007.xml - Missing <Customer> element.
+2024-10-18 14:26:34,632: Retrying order_007.xml (2/3)
+2024-10-18 14:26:34,632: Skipped order_007.xml - Missing <Customer> element.
+2024-10-18 14:26:34,632: Retrying order_007.xml (3/3)
+2024-10-18 14:26:34,632: Failed to process order_007.xml after 3 retries.
+2024-10-18 14:26:34,645: Skipped order_008.xml - Missing <Customer> element.
+2024-10-18 14:26:34,645: Retrying order_008.xml (1/3)
+2024-10-18 14:26:34,652: Skipped order_008.xml - Missing <Customer> element.
+2024-10-18 14:26:34,652: Retrying order_008.xml (2/3)
+2024-10-18 14:26:34,661: Skipped order_008.xml - Missing <Customer> element.
+2024-10-18 14:26:34,661: Retrying order_008.xml (3/3)
+2024-10-18 14:26:34,661: Failed to process order_008.xml after 3 retries.
+2024-10-18 14:26:34,672: Skipped order_009.xml - Missing <Customer> element.
+2024-10-18 14:26:34,672: Retrying order_009.xml (1/3)
+2024-10-18 14:26:34,681: Skipped order_009.xml - Missing <Customer> element.
+2024-10-18 14:26:34,682: Retrying order_009.xml (2/3)
+2024-10-18 14:26:34,682: Skipped order_009.xml - Missing <Customer> element.
+2024-10-18 14:26:34,682: Retrying order_009.xml (3/3)
+2024-10-18 14:26:34,682: Failed to process order_009.xml after 3 retries.
+2024-10-18 14:26:34,695: Skipped order_010.xml - Missing <Customer> element.
+2024-10-18 14:26:34,695: Retrying order_010.xml (1/3)
+2024-10-18 14:26:34,702: Skipped order_010.xml - Missing <Customer> element.
+2024-10-18 14:26:34,702: Retrying order_010.xml (2/3)
+2024-10-18 14:26:34,702: Skipped order_010.xml - Missing <Customer> element.
+2024-10-18 14:26:34,702: Retrying order_010.xml (3/3)
+2024-10-18 14:26:34,702: Failed to process order_010.xml after 3 retries.
+2024-10-18 14:26:34,722: Skipped order_011.xml - Missing <Customer> element.
+2024-10-18 14:26:34,722: Retrying order_011.xml (1/3)
+2024-10-18 14:26:34,727: Skipped order_011.xml - Missing <Customer> element.
+2024-10-18 14:26:34,727: Retrying order_011.xml (2/3)
+2024-10-18 14:26:34,732: Skipped order_011.xml - Missing <Customer> element.
+2024-10-18 14:26:34,732: Retrying order_011.xml (3/3)
+2024-10-18 14:26:34,732: Failed to process order_011.xml after 3 retries.
+2024-10-18 14:26:34,742: Skipped order_012.xml - Missing <Customer> element.
+2024-10-18 14:26:34,742: Retrying order_012.xml (1/3)
+2024-10-18 14:26:34,742: Skipped order_012.xml - Missing <Customer> element.
+2024-10-18 14:26:34,742: Retrying order_012.xml (2/3)
+2024-10-18 14:26:34,754: Skipped order_012.xml - Missing <Customer> element.
+2024-10-18 14:26:34,754: Retrying order_012.xml (3/3)
+2024-10-18 14:26:34,754: Failed to process order_012.xml after 3 retries.
+2024-10-18 14:26:34,762: Skipped order_013.xml - Missing <Customer> element.
+2024-10-18 14:26:34,762: Retrying order_013.xml (1/3)
+2024-10-18 14:26:34,772: Skipped order_013.xml - Missing <Customer> element.
+2024-10-18 14:26:34,772: Retrying order_013.xml (2/3)
+2024-10-18 14:26:34,777: Skipped order_013.xml - Missing <Customer> element.
+2024-10-18 14:26:34,777: Retrying order_013.xml (3/3)
+2024-10-18 14:26:34,777: Failed to process order_013.xml after 3 retries.
+2024-10-18 14:26:34,791: Skipped order_014.xml - Missing <Customer> element.
+2024-10-18 14:26:34,791: Retrying order_014.xml (1/3)
+2024-10-18 14:26:34,796: Skipped order_014.xml - Missing <Customer> element.
+2024-10-18 14:26:34,796: Retrying order_014.xml (2/3)
+2024-10-18 14:26:34,802: Skipped order_014.xml - Missing <Customer> element.
+2024-10-18 14:26:34,802: Retrying order_014.xml (3/3)
+2024-10-18 14:26:34,802: Failed to process order_014.xml after 3 retries.
+2024-10-18 14:26:34,812: Skipped order_015.xml - Missing <Customer> element.
+2024-10-18 14:26:34,812: Retrying order_015.xml (1/3)
+2024-10-18 14:26:34,812: Skipped order_015.xml - Missing <Customer> element.
+2024-10-18 14:26:34,812: Retrying order_015.xml (2/3)
+2024-10-18 14:26:34,822: Skipped order_015.xml - Missing <Customer> element.
+2024-10-18 14:26:34,822: Retrying order_015.xml (3/3)
+2024-10-18 14:26:34,822: Failed to process order_015.xml after 3 retries.
+2024-10-18 14:26:34,832: Skipped order_016.xml - Missing <Customer> element.
+2024-10-18 14:26:34,832: Retrying order_016.xml (1/3)
+2024-10-18 14:26:34,842: Skipped order_016.xml - Missing <Customer> element.
+2024-10-18 14:26:34,842: Retrying order_016.xml (2/3)
+2024-10-18 14:26:34,842: Skipped order_016.xml - Missing <Customer> element.
+2024-10-18 14:26:34,842: Retrying order_016.xml (3/3)
+2024-10-18 14:26:34,842: Failed to process order_016.xml after 3 retries.
+2024-10-18 14:26:34,857: Skipped order_017.xml - Missing <Customer> element.
+2024-10-18 14:26:34,857: Retrying order_017.xml (1/3)
+2024-10-18 14:26:34,862: Skipped order_017.xml - Missing <Customer> element.
+2024-10-18 14:26:34,862: Retrying order_017.xml (2/3)
+2024-10-18 14:26:34,862: Skipped order_017.xml - Missing <Customer> element.
+2024-10-18 14:26:34,862: Retrying order_017.xml (3/3)
+2024-10-18 14:26:34,862: Failed to process order_017.xml after 3 retries.
+2024-10-18 14:26:34,882: Skipped order_018.xml - Missing <Customer> element.
+2024-10-18 14:26:34,882: Retrying order_018.xml (1/3)
+2024-10-18 14:26:34,882: Skipped order_018.xml - Missing <Customer> element.
+2024-10-18 14:26:34,882: Retrying order_018.xml (2/3)
+2024-10-18 14:26:34,892: Skipped order_018.xml - Missing <Customer> element.
+2024-10-18 14:26:34,892: Retrying order_018.xml (3/3)
+2024-10-18 14:26:34,892: Failed to process order_018.xml after 3 retries.
+2024-10-18 14:26:34,905: Skipped order_019.xml - Missing <Customer> element.
+2024-10-18 14:26:34,905: Retrying order_019.xml (1/3)
+2024-10-18 14:26:34,912: Skipped order_019.xml - Missing <Customer> element.
+2024-10-18 14:26:34,912: Retrying order_019.xml (2/3)
+2024-10-18 14:26:34,912: Skipped order_019.xml - Missing <Customer> element.
+2024-10-18 14:26:34,912: Retrying order_019.xml (3/3)
+2024-10-18 14:26:34,912: Failed to process order_019.xml after 3 retries.
+2024-10-18 14:26:34,922: Skipped order_020.xml - Missing <Customer> element.
+2024-10-18 14:26:34,922: Retrying order_020.xml (1/3)
+2024-10-18 14:26:34,932: Skipped order_020.xml - Missing <Customer> element.
+2024-10-18 14:26:34,932: Retrying order_020.xml (2/3)
+2024-10-18 14:26:34,937: Skipped order_020.xml - Missing <Customer> element.
+2024-10-18 14:26:34,937: Retrying order_020.xml (3/3)
+2024-10-18 14:26:34,937: Failed to process order_020.xml after 3 retries.
+2024-10-18 14:26:34,952: Skipped order_021.xml - Missing <Customer> element.
+2024-10-18 14:26:34,952: Retrying order_021.xml (1/3)
+2024-10-18 14:26:34,952: Skipped order_021.xml - Missing <Customer> element.
+2024-10-18 14:26:34,952: Retrying order_021.xml (2/3)
+2024-10-18 14:26:34,962: Skipped order_021.xml - Missing <Customer> element.
+2024-10-18 14:26:34,962: Retrying order_021.xml (3/3)
+2024-10-18 14:26:34,962: Failed to process order_021.xml after 3 retries.
+2024-10-18 14:26:34,972: Skipped order_022.xml - Missing <Customer> element.
+2024-10-18 14:26:34,972: Retrying order_022.xml (1/3)
+2024-10-18 14:26:34,984: Skipped order_022.xml - Missing <Customer> element.
+2024-10-18 14:26:34,984: Retrying order_022.xml (2/3)
+2024-10-18 14:26:34,984: Skipped order_022.xml - Missing <Customer> element.
+2024-10-18 14:26:34,984: Retrying order_022.xml (3/3)
+2024-10-18 14:26:34,984: Failed to process order_022.xml after 3 retries.
+2024-10-18 14:26:35,002: Skipped order_023.xml - Missing <Customer> element.
+2024-10-18 14:26:35,002: Retrying order_023.xml (1/3)
+2024-10-18 14:26:35,002: Skipped order_023.xml - Missing <Customer> element.
+2024-10-18 14:26:35,002: Retrying order_023.xml (2/3)
+2024-10-18 14:26:35,015: Skipped order_023.xml - Missing <Customer> element.
+2024-10-18 14:26:35,015: Retrying order_023.xml (3/3)
+2024-10-18 14:26:35,015: Failed to process order_023.xml after 3 retries.
+2024-10-18 14:26:35,022: Skipped order_024.xml - Missing <Customer> element.
+2024-10-18 14:26:35,022: Retrying order_024.xml (1/3)
+2024-10-18 14:26:35,032: Skipped order_024.xml - Missing <Customer> element.
+2024-10-18 14:26:35,032: Retrying order_024.xml (2/3)
+2024-10-18 14:26:35,032: Skipped order_024.xml - Missing <Customer> element.
+2024-10-18 14:26:35,032: Retrying order_024.xml (3/3)
+2024-10-18 14:26:35,032: Failed to process order_024.xml after 3 retries.
+2024-10-18 14:26:35,053: Skipped order_025.xml - Missing <Customer> element.
+2024-10-18 14:26:35,053: Retrying order_025.xml (1/3)
+2024-10-18 14:26:35,059: Skipped order_025.xml - Missing <Customer> element.
+2024-10-18 14:26:35,059: Retrying order_025.xml (2/3)
+2024-10-18 14:26:35,062: Skipped order_025.xml - Missing <Customer> element.
+2024-10-18 14:26:35,062: Retrying order_025.xml (3/3)
+2024-10-18 14:26:35,062: Failed to process order_025.xml after 3 retries.
+2024-10-18 14:26:35,076: Skipped order_026.xml - Missing <Customer> element.
+2024-10-18 14:26:35,076: Retrying order_026.xml (1/3)
+2024-10-18 14:26:35,082: Skipped order_026.xml - Missing <Customer> element.
+2024-10-18 14:26:35,082: Retrying order_026.xml (2/3)
+2024-10-18 14:26:35,082: Skipped order_026.xml - Missing <Customer> element.
+2024-10-18 14:26:35,082: Retrying order_026.xml (3/3)
+2024-10-18 14:26:35,082: Failed to process order_026.xml after 3 retries.
+2024-10-18 14:26:35,097: Skipped order_027.xml - Missing <Customer> element.
+2024-10-18 14:26:35,097: Retrying order_027.xml (1/3)
+2024-10-18 14:26:35,102: Skipped order_027.xml - Missing <Customer> element.
+2024-10-18 14:26:35,102: Retrying order_027.xml (2/3)
+2024-10-18 14:26:35,102: Skipped order_027.xml - Missing <Customer> element.
+2024-10-18 14:26:35,102: Retrying order_027.xml (3/3)
+2024-10-18 14:26:35,102: Failed to process order_027.xml after 3 retries.
+2024-10-18 14:26:35,125: Skipped order_028.xml - Missing <Customer> element.
+2024-10-18 14:26:35,125: Retrying order_028.xml (1/3)
+2024-10-18 14:26:35,130: Skipped order_028.xml - Missing <Customer> element.
+2024-10-18 14:26:35,130: Retrying order_028.xml (2/3)
+2024-10-18 14:26:35,135: Skipped order_028.xml - Missing <Customer> element.
+2024-10-18 14:26:35,135: Retrying order_028.xml (3/3)
+2024-10-18 14:26:35,136: Failed to process order_028.xml after 3 retries.
+2024-10-18 14:26:35,143: Skipped order_029.xml - Missing <Customer> element.
+2024-10-18 14:26:35,143: Retrying order_029.xml (1/3)
+2024-10-18 14:26:35,143: Skipped order_029.xml - Missing <Customer> element.
+2024-10-18 14:26:35,143: Retrying order_029.xml (2/3)
+2024-10-18 14:26:35,152: Skipped order_029.xml - Missing <Customer> element.
+2024-10-18 14:26:35,152: Retrying order_029.xml (3/3)
+2024-10-18 14:26:35,152: Failed to process order_029.xml after 3 retries.
+2024-10-18 14:26:35,170: Skipped order_030.xml - Missing <Customer> element.
+2024-10-18 14:26:35,170: Retrying order_030.xml (1/3)
+2024-10-18 14:26:35,172: Skipped order_030.xml - Missing <Customer> element.
+2024-10-18 14:26:35,172: Retrying order_030.xml (2/3)
+2024-10-18 14:26:35,182: Skipped order_030.xml - Missing <Customer> element.
+2024-10-18 14:26:35,182: Retrying order_030.xml (3/3)
+2024-10-18 14:26:35,182: Failed to process order_030.xml after 3 retries.
+2024-10-18 14:26:35,332: Skipped order_031 (8).xml - Missing <Customer> element.
+2024-10-18 14:26:35,332: Retrying order_031 (8).xml (1/3)
+2024-10-18 14:26:35,332: Skipped order_031 (8).xml - Missing <Customer> element.
+2024-10-18 14:26:35,332: Retrying order_031 (8).xml (2/3)
+2024-10-18 14:26:35,345: Skipped order_031 (8).xml - Missing <Customer> element.
+2024-10-18 14:26:35,345: Retrying order_031 (8).xml (3/3)
+2024-10-18 14:26:35,345: Failed to process order_031 (8).xml after 3 retries.
+2024-10-18 14:26:35,352: Parsing error in order_031 (9).xml - not well-formed (invalid token): line 8, column 4.
+2024-10-18 14:26:35,352: Retrying order_031 (9).xml (1/3)
+2024-10-18 14:26:35,362: Parsing error in order_031 (9).xml - not well-formed (invalid token): line 8, column 4.
+2024-10-18 14:26:35,362: Retrying order_031 (9).xml (2/3)
+2024-10-18 14:26:35,367: Parsing error in order_031 (9).xml - not well-formed (invalid token): line 8, column 4.
+2024-10-18 14:26:35,367: Retrying order_031 (9).xml (3/3)
+2024-10-18 14:26:35,367: Failed to process order_031 (9).xml after 3 retries.
